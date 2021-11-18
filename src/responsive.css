@@ -1,0 +1,205 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+
+
+    .mainmenu .navbar-light .navbar-brand
+    {
+        width: 250px;
+       
+        float: left;
+        height: 80px;
+    }
+    .mainmenu nav
+    {
+        padding:5px;
+    }
+    .mainmenu .navbar-nav, .mainmenu .navbar
+    {
+      background: #fff;
+    }
+    .mainmenu .navbar-nav li
+    {
+        text-align: center;
+    }
+    .sub-head-2 
+    {
+       text-align: center;
+    }
+    .section-head
+    {
+         font-size:30px;
+    }
+    .section-para
+    {
+        font-size:14px;
+    }
+    .ourvision .display-3
+    {
+        font-size:30px;
+    }
+    .ourvision .lead
+    {
+        font-size:15px;
+        line-height: 30px;
+    }
+    .main-section-para
+    {
+        font-size:15px;
+        text-align: center;
+    }
+    .check-list
+    {
+       font-size:12px;
+    }
+    .services-header,.home-header,.about-header, .news-header, .product-header, .career-header, .Contact-header
+    {
+        height: 150px;
+    }
+    .declongue .display-3
+    {
+      font-size:25px;
+      line-height: 28px;
+    }
+    .declongue .strength-list
+    {
+        margin-left:-26px;
+    }
+    .strength-list li
+    {
+         font-size:15px;
+         margin: 11px 14px;
+    }
+    
+    .declongue .Dec-card .card-title
+    {
+        font-size: 16px;
+    }
+    .declongue .w-5
+    {
+       width: 50%;
+    }
+    .news-list
+    {
+        font-size: 12px;
+    }
+    .declongue .career-jumbo
+    {
+        padding: 20px 0;
+    }
+    .declongue .readmore.btn-link, .declongue .readmore.btn-link:hover, .declongue .readmore.btn-link:focus
+    {
+        margin-left: 66%;
+    margin-top: -102px;
+    }
+    .jobs-list .card-title
+    {
+        font-size: 18px;
+    }
+    .jobs-list .card-subtitle
+    {
+        font-size: 14px;
+    }
+    .apply-modal .modal-body
+    {
+        font-size:16px;
+    }
+    .m10
+    {
+        margin-left: 40px;
+    }
+    .declongue .contact-img 
+    {
+      width: 80%;
+    }
+    .copyrights
+    {
+       font-size: 12px;
+       text-align: center;
+    }
+    .ever
+    {
+       text-align: center;
+    }
+    /* .declongue .logo
+    {
+        width: 30%;
+    } */
+    .center-img
+    {
+         text-align: center !important;
+    }
+    .dropdown .nav-link
+    {
+        text-align: center;
+    }
+    .declongue-textcarsolue .rec-carousel-item .card
+    {
+        height: 350px !important;
+    }
+    .cars-content
+    {
+        font-size:13px;
+        color: #211d12 !important;
+    }
+    .declongue-textcarsolue .rec-carousel-item .card-title
+    {
+        font-size:18px;
+    }
+    .logo
+    {
+        width: 100%;
+    }
+    .technology-textcarsolue
+    {
+        margin: 0 !important;
+    }
+    .rec-pagination, .xzcEF, .sc-gKAaRy
+    {
+      display: none !important;
+    }
+	
+	.owl-carousel .owl-item img
+	{
+		width:100% !important;
+	}
+	.tech-carousel
+	{
+		margin:0 !important;
+	}
+    .declongue .mainmenu .navbar-nav
+    {
+        margin-right: 0px;
+    }
+    .mainmenu nav
+    {
+        height: auto;
+    }
+    .logo 
+    {
+        width: 100%;
+    margin-top: -37px;
+    }
+    .back-btn-text
+    {
+        font-size: 2rem;
+    }
+    .bak-arrow
+    {
+        height: 2.5em !important;
+    width: 1.5em !important;
+    }
+    .declongue .navbar-toggler
+    {
+        border: 1px solid red !important;
+    }
+    .declongue .navbar-light .navbar-toggler-icon
+    {
+        width: 25px;
+        height: 25px;
+    }
+    .declongue .mt-50
+{
+   margin-top:6%; 
+   text-align: center;
+}
+
+}
